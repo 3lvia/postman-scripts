@@ -1,6 +1,8 @@
 # postman-scripts
 POC for having common pre-request scripts in postman.
 
+See usage in postman with workspace "louvre" and collection "common-pre-request-script POC".
+
 ## Setup collection
 ### pre-request script
 ```
